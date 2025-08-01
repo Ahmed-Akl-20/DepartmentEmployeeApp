@@ -27,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{6B0F17BB-DB92-4575-AAE5-318DA7E5D373}|DepartmentEmployeeApp\\DepartmentEmployeeApp.csproj|solutionrelative:departmentemployeeapp\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Migrations\\20250728205601_AddEmployeeTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DepartmentEmployeeApp\\Migrations\\20250728205601_AddEmployeeTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6B0F17BB-DB92-4575-AAE5-318DA7E5D373}|DepartmentEmployeeApp\\DepartmentEmployeeApp.csproj|f:\\iti\\day_16_mvc\\departmentemployeeapp\\departmentemployeeapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B0F17BB-DB92-4575-AAE5-318DA7E5D373}|DepartmentEmployeeApp\\DepartmentEmployeeApp.csproj|solutionrelative:departmentemployeeapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Migrations\\20250728204331_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DepartmentEmployeeApp\\Migrations\\20250728204331_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B0F17BB-DB92-4575-AAE5-318DA7E5D373}|DepartmentEmployeeApp\\DepartmentEmployeeApp.csproj|f:\\iti\\day_16_mvc\\departmentemployeeapp\\departmentemployeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,6 +69,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{6B0F17BB-DB92-4575-AAE5-318DA7E5D373}|DepartmentEmployeeApp\\DepartmentEmployeeApp.csproj|f:\\iti\\day_16_mvc\\departmentemployeeapp\\departmentemployeeapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6B0F17BB-DB92-4575-AAE5-318DA7E5D373}|DepartmentEmployeeApp\\DepartmentEmployeeApp.csproj|solutionrelative:departmentemployeeapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0F17BB-DB92-4575-AAE5-318DA7E5D373}|DepartmentEmployeeApp\\DepartmentEmployeeApp.csproj|f:\\iti\\day_16_mvc\\departmentemployeeapp\\departmentemployeeapp\\migrations\\20250728205601_addemployeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0F17BB-DB92-4575-AAE5-318DA7E5D373}|DepartmentEmployeeApp\\DepartmentEmployeeApp.csproj|solutionrelative:departmentemployeeapp\\migrations\\20250728205601_addemployeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0F17BB-DB92-4575-AAE5-318DA7E5D373}|DepartmentEmployeeApp\\DepartmentEmployeeApp.csproj|f:\\iti\\day_16_mvc\\departmentemployeeapp\\departmentemployeeapp\\migrations\\20250728204331_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0F17BB-DB92-4575-AAE5-318DA7E5D373}|DepartmentEmployeeApp\\DepartmentEmployeeApp.csproj|solutionrelative:departmentemployeeapp\\migrations\\20250728204331_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,8 +98,7 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T21:04:00.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T21:04:00.284Z"
             },
             {
               "$type": "Document",
@@ -109,14 +108,14 @@
               "RelativeDocumentMoniker": "DepartmentEmployeeApp\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "DepartmentEmployeeApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-28T20:20:59.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Views\\Departments\\Create.cshtml",
               "RelativeDocumentMoniker": "DepartmentEmployeeApp\\Views\\Departments\\Create.cshtml",
@@ -124,12 +123,11 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Views\\Departments\\Create.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T20:31:31.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:31:31.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Department.cs",
               "DocumentMoniker": "F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Models\\Department.cs",
               "RelativeDocumentMoniker": "DepartmentEmployeeApp\\Models\\Department.cs",
@@ -137,8 +135,7 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Models\\Department.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T20:15:06.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:15:06.731Z"
             },
             {
               "$type": "Document",
@@ -150,8 +147,7 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T20:15:31.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:15:31.402Z"
             },
             {
               "$type": "Document",
@@ -163,8 +159,7 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Views\\Employees\\Create.cshtml",
               "ViewState": "AgIAAAcAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T20:25:45.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:25:45.119Z"
             },
             {
               "$type": "Document",
@@ -176,12 +171,11 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Controllers\\EmployeesController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAzwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T20:20:44.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:20:44.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "DepartmentEmployeeApp\\Controllers\\DepartmentsController.cs",
@@ -189,12 +183,11 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Controllers\\DepartmentsController.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAgwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T20:19:50.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:19:50.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "20250728205601_AddEmployeeTable.cs",
               "DocumentMoniker": "F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Migrations\\20250728205601_AddEmployeeTable.cs",
               "RelativeDocumentMoniker": "DepartmentEmployeeApp\\Migrations\\20250728205601_AddEmployeeTable.cs",
@@ -202,8 +195,7 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Migrations\\20250728205601_AddEmployeeTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T20:56:01.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:56:01.606Z"
             },
             {
               "$type": "Document",
@@ -215,12 +207,11 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Views\\Employees\\Index.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T20:57:31.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:57:31.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DepartmentEmployeeApp\\Views\\Home\\Index.cshtml",
@@ -228,12 +219,11 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T20:21:32.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:21:32.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DepartmentEmployeeApp\\Data\\AppDbContext.cs",
@@ -241,12 +231,11 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T20:16:03.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:16:03.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "20250728204331_InitialCreate.cs",
               "DocumentMoniker": "F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Migrations\\20250728204331_InitialCreate.cs",
               "RelativeDocumentMoniker": "DepartmentEmployeeApp\\Migrations\\20250728204331_InitialCreate.cs",
@@ -254,12 +243,11 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Migrations\\20250728204331_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T20:43:31.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:43:31.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "Details.cshtml",
               "DocumentMoniker": "F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Views\\Departments\\Details.cshtml",
               "RelativeDocumentMoniker": "DepartmentEmployeeApp\\Views\\Departments\\Details.cshtml",
@@ -267,12 +255,11 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Views\\Departments\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T20:22:28.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:22:28.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Views\\Departments\\Delete.cshtml",
               "RelativeDocumentMoniker": "DepartmentEmployeeApp\\Views\\Departments\\Delete.cshtml",
@@ -280,12 +267,11 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Views\\Departments\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T20:31:35.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:31:35.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Program.cs",
               "RelativeDocumentMoniker": "DepartmentEmployeeApp\\Program.cs",
@@ -293,12 +279,11 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T20:16:25.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:16:25.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "20250728202941_InitialCreate.cs",
               "DocumentMoniker": "F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Migrations\\20250728202941_InitialCreate.cs",
               "RelativeDocumentMoniker": "DepartmentEmployeeApp\\Migrations\\20250728202941_InitialCreate.cs",
@@ -306,12 +291,11 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Migrations\\20250728202941_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T20:29:42.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:29:42.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Views\\Departments\\Index.cshtml",
               "RelativeDocumentMoniker": "DepartmentEmployeeApp\\Views\\Departments\\Index.cshtml",
@@ -319,12 +303,11 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Views\\Departments\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T20:32:53.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:32:53.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "F:\\ITI\\DAY_16_MVC\\DepartmentEmployeeApp\\DepartmentEmployeeApp\\Views\\Departments\\Edit.cshtml",
               "RelativeDocumentMoniker": "DepartmentEmployeeApp\\Views\\Departments\\Edit.cshtml",
@@ -332,8 +315,7 @@
               "RelativeToolTip": "DepartmentEmployeeApp\\Views\\Departments\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T20:33:13.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T20:33:13.742Z"
             }
           ]
         }
